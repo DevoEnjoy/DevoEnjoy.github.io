@@ -29,7 +29,7 @@ git add .
 버전 확정
 git commit -m "커밋메시지"
 : 해당 버전에 커밋메시지와 함께 버전을 확정 짓는 것이다.
-
+ 
 git push origin main
 git push
 : main 브랜치의 변경사항을 깃허브 저장소에 업데이트를 올리는 것
